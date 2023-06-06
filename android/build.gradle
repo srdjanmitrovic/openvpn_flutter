@@ -47,6 +47,6 @@ android {
 
 dependencies {
 //    implementation 'com.github.cihan53:openvpn_library:0038586033'
-    implementation 'com.github.cihan53:openvpn_library:b71ff159ba'
+    implementation 'com.github.srdjanmitrovic:openvpn_library:f2c47f9'
 
 }
